@@ -1,6 +1,5 @@
 ## Install
-1. Install librealsense SDK https://github.com/realsenseai/librealsense/blob/master/doc/installation_windows.md
-
+1. Install librealsense SDK https://github.com/realsenseai/librealsense/releases
 2. pip install numpy opencv-python matplotlib pyrealsense2
 
 Note: make sure you are using USB 3 and Windows/Linux only
